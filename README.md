@@ -14,8 +14,11 @@ The following git commands were used: (active branches other than master are lis
 10. [EDIT README.md] (bug-fix)
 11. git add README.md (bug-fix)
 12. git commit -m 'commit 4, bug-fix2' (bug-fix)
-13. git checkout ef39f9baf6f5481dd1e3d75e8a7fca3fac9687e5
-14. git checkout -b bug-fix-experimental
+13. git checkout ef39f9baf6f5481dd1e3d75e8a7fca3fac9687e5 (bug-fix)
+14. git checkout -b bug-fix-experimental (bug-fix)
 15. [EDIT README.md] (bug-fix-experimental)
 16. git add README.md (bug-fix-experimental)
-17. git commit -m 'commit 7, bug-fix-e1'
+17. git commit -m 'commit 7, bug-fix-e1' (bug-fix-experimental)
+18. [EDIT README.md] (bug-fix-experimental)
+19. git add README.md (bug-fix-experimental)
+20. git commit -m 'commit 8, bug-fix-e2' (bug-fix-experimental)
