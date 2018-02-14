@@ -8,3 +8,6 @@
 5. [EDIT README.md]
 6. git add README.md
 7. git commit -m 'commit 1, edit 1'
+8. [EDIT README.md]
+9. git add README.md
+10. git commit -m 'commit 2, edit 2'
