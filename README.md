@@ -22,3 +22,8 @@ The following git commands were used: (active branches other than master are lis
 18. [EDIT README.md] (bug-fix-experimental)
 19. git add README.md (bug-fix-experimental)
 20. git commit -m 'commit 8, bug-fix-e2' (bug-fix-experimental)
+21. [EDIT README.md] (bug-fix-experimental)
+22. git add README.md (bug-fix-experimental)
+23. git commit -m 'commit 9, bug-fix-e3' (bug-fix-experimental)
+
+**Not included was the command 'git log --graph --all --decorate' that I executed after essentially every commit in order to check my work**
