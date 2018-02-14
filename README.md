@@ -10,3 +10,6 @@
 7. [EDIT README.md] (bug-fix)
 8. git add README.md (bug-fix)
 9. git commit -m 'commit 3, bug-fix1' (bug-fix)
+10. [EDIT README.md] (bug-fix)
+11. git add README.md (bug-fix)
+12. git commit -m 'commit 4, bug-fix2' (bug-fix)
