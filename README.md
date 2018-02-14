@@ -5,3 +5,6 @@
 2. git init
 3. git add README.md
 4. git commit -m 'commit 0, create repo'
+5. [EDIT README.md]
+6. git add README.md
+7. git commit -m 'commit 1, edit 1'
