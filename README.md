@@ -38,5 +38,13 @@ The following git commands were used: (active branches other than master are lis
 33. [EDIT README.md] (bug-fix-experimental)
 34. git add README.md (bug-fix-experimental)
 35. git commit -m 'commit 9, bug-fix-e3' (bug-fix-experimental)
+36. git checkout bug-fix
+37. git merge bug-fix-experimental (bug-fix)
+38. [EDIT README.md, RESOLVE CONFLICT] (bug-fix)
+39. git add README.md (bug-fix)
+40. git commit -m 'commit 11, merge2' (bug-fix)
+41. [EDIT README.md] (bug-fix)
+42. git add README.md (bug-fix)
+43. git commit -m 'commit 12, bug-fix6'
 
 **Not included was the command 'git log --graph --all --decorate' that I executed after essentially every commit in order to check my work**
