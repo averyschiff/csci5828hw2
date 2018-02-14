@@ -11,3 +11,7 @@
 8. [EDIT README.md]
 9. git add README.md
 10. git commit -m 'commit 2, edit 2'
+11. git checkout master
+12. [EDIT README.md]
+13. git add README.md
+14. git commit -m 'commit 10, edit 3'
