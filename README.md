@@ -48,6 +48,15 @@ The following git commands were used: (active branches other than master are lis
 44. git commit -m 'commit 11, merge2' (bug-fix)
 45. [EDIT README.md] (bug-fix)
 46. git add README.md (bug-fix)
-47. git commit -m 'commit 12, bug-fix6'
+47. git commit -m 'commit 12, bug-fix6' (bug-fix)
+48. git checkout master
+49. git merge bug-fix
+50. [EDIT README.md, RESOLVE CONFLICT]
+51. git add README.md
+52. git commit -m 'commit 13, merge3'
+53. [EDIT README.md]
+54. [CREATE IMAGE]
+55. git add README.md commitgraph.png
+56. git commit -m 'commit 14, edit 4'
 
 **Not included was the command 'git log --graph --all --decorate' that I executed after essentially every commit in order to check my work**
